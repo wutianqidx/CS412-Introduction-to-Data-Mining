@@ -11,5 +11,5 @@ Following topics are covered:
 * Classification
 * Cluster Analysis
 
-Hope it hopes! 
+Hope it helps! 
 
